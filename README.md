@@ -1,8 +1,8 @@
 # 🛡️ Leonard Suares | Senior Data Analyst & BI Developer
 
-**Location:** Ottawa, Ontario, Canada 🇨🇦  
-**Specialization:** Business Intelligence | Data Engineering | Security-Minded Development  
-**Current Focus:** Leveraging **Python** to architect advanced **Business Intelligence** solutions and scale my data analysis capabilities toward high-performance, automated environments.
+<small>**Location:** Ottawa, Ontario, Canada 🇨🇦</small>  
+<small>**Specialization:** Business Intelligence | Data Engineering | Security-Minded Development.</small>
+<small>**Current Focus:** Leveraging **Python** to architect advanced **Business Intelligence** solutions and scale my data analysis capabilities toward high-performance, automated environments.<small>
 ---
 
 ## 🛠️ Featured Technical Portfolio | 2026
