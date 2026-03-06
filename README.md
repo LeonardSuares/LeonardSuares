@@ -15,7 +15,7 @@
 * **The Solution:** Engineered a multi-page BI suite with **Session State Persistence** and a custom **Velocity Engine** to project completion dates based on historical reading behavior.
 * **Key Feature:** Interactive **Burndown Analytics** that calculate "Ideal vs. Actual" pace variance to maintain annual goal integrity.
 
-### 📦 [Amazon Customer Sentiment Engine](https://github.com/yourlink)
+### 📦 [Amazon Customer Sentiment Engine](https://amazon-reviews-analysis-fpn7avhj8gxxcfeayq595h.streamlit.app/)
 **NLP & Behavioral Data Science**
 * **Core Tech:** Python, NLTK, Scikit-Learn, Matplotlib.
 * **The Problem:** Extracting actionable insights from thousands of unstructured text reviews to identify product friction points.
@@ -24,7 +24,7 @@
 
 
 
-### 🚕 [Uber NY Trip Analysis](https://github.com/yourlink)
+### 🚕 [Uber NY Trip Analysis](https://uber-ny-data-analysis-ddgkdn8fx5ifjsy6marvu5.streamlit.app/)
 **Big Data Engineering & Geospatial Optimization**
 * **Core Tech:** Python, PyArrow, Parquet, Folium.
 * **The Problem:** High-latency processing when handling 20M+ rows of raw Uber trip data in standard CSV formats.
@@ -33,7 +33,7 @@
 
 
 
-### 📊 [YouTube Engagement Modeling](https://github.com/yourlink)
+### 📊 [YouTube Engagement Modeling](https://youtube-videos-data-analysis-5kszowasilg4adq2caee9i.streamlit.app/)
 **Statistical Research & Retention Analysis**
 * **Core Tech:** Python, Statsmodels, Scikit-Learn.
 * **The Problem:** Quantifying the specific drivers of viewer retention and engagement in a highly saturated content market.
