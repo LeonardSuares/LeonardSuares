@@ -2,7 +2,8 @@
 
 <small>**Location:** Ottawa, Ontario, Canada 🇨🇦</small>  
 <small>**Specialization:** Business Intelligence | Data Engineering | Security-Minded Development.</small>
-<small>**Current Focus:** Leveraging **Python** to architect advanced **Business Intelligence** solutions and scale my data analysis capabilities toward high-performance, automated environments.<small>
+<small>**Current Focus:** Leveraging **Python** to architect advanced **Business Intelligence** solutions and scale my data analysis capabilities toward high-performance, automated environments.</small>
+
 ---
 
 ## 🛠️ Featured Technical Portfolio | 2026
@@ -21,16 +22,12 @@
 * **The Solution:** Developed an **NLP Pipeline** utilizing VADER sentiment analysis and TF-IDF vectorization to categorize customer feedback into emotional clusters.
 * **Key Feature:** Automated **Rating Prediction Model** that identifies discrepancies between star ratings and text sentiment to detect potential bot reviews or "review bombing" patterns.
 
-
-
 ### 🚕 [Uber NY Trip Analysis](https://uber-ny-data-analysis-ddgkdn8fx5ifjsy6marvu5.streamlit.app/)
 **Big Data Engineering & Geospatial Optimization**
 * **Core Tech:** Python, PyArrow, Parquet, Folium.
 * **The Problem:** High-latency processing when handling 20M+ rows of raw Uber trip data in standard CSV formats.
 * **The Solution:** Optimized the data architecture using **Parquet serialization** and **Brotli compression**, reducing storage requirements by **90%** while significantly decreasing query execution time.
 * **Key Feature:** Geospatial heatmapping identifying high-density pickup zones to assist in fleet distribution and urban planning.
-
-
 
 ### 📊 [YouTube Engagement Modeling](https://youtube-videos-data-analysis-5kszowasilg4adq2caee9i.streamlit.app/)
 **Statistical Research & Retention Analysis**
